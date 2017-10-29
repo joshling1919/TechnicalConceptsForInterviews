@@ -6,7 +6,7 @@
 - TLS and SSL both use 'asymmetric' Public Key Infrastructure (PKI) system, which uses a public key and a private key to encrypt communications. Anything encrypted with the public key can only be decrypted by the private key and vice-versa.
 - HTTPS is often used to protect highly confidential online transactions like online banking and online shopping order forms.
 
-### XSS vs. CSRF
+### XSS vs. CSRF (+)
 - CSRF (Cross-Site Request Forgery) attack - the attacker tries to force/trick you into making a request which you did not intend. 
   
     e.g. Sending you a link that makes you involuntarily change your password. 
