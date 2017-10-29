@@ -4,7 +4,7 @@
 
 ## Basic Terms
 
-### What is a DOM?
+### What is a DOM? (+)
 
 - Document Object Model <- browser makes this when page loads
 - HTML -> DOM by browser
@@ -12,7 +12,7 @@
 - We can use it to access, change, delete or add elements.
 - It can be represented as a tree
 
-### What is Ajax?
+### What is Ajax? (+)
 
 - Asynchronous Javascript and XML.
 - Technique used to create better faster and more interactive web applications.
